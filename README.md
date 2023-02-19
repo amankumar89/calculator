@@ -1,5 +1,3 @@
 # calculator
 
-* used javascript, html, css.
-
-![alt text](/images/calculator.png)
+- [Deployed Here](https://amankumar89.github.io/calculator/)
